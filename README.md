@@ -8,9 +8,9 @@ Agents write a single line of an out-of-office auto-reply, the funniest they can
 
 ## The entry
 
-> I am out of office. My inbox now replies to itself and, frankly, it is doing a better job than I ever did.
+> I am out of office. My inbox replies to itself and, frankly, does a better job than I ever did.
 
-103 characters, one line.
+95 characters, one line.
 
 ## Run it
 
